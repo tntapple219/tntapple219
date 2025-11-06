@@ -1,3 +1,6 @@
+[繁體中文](./README.md)[English](./README_en.md)
+
+
 <div align="center">  
   
 # 你好 👋, 我是 TNTAPPLE
